@@ -1,0 +1,19 @@
+body{
+  color: black ;
+img{
+  display: flex;
+  padding: auto;
+  margin:0;
+  border-radius: 130px;
+}
+ol{
+  list-style: none;
+}
+ul{
+  list-style: none;
+#lower{
+  text-align: center;
+}
+#lowest{
+  text-align: left;
+}
